@@ -4,7 +4,7 @@
     Connect with me<br/><br/>
 </h3>
 <p align='left'>
-    <a href="https://www.linkedin.com/in/elena-manuela-redinciuc-828a4625/">
+    <a href="https://www.linkedin.com/in/elena-manuela-redinciuc-828a4625/" target="_blank">
        <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
