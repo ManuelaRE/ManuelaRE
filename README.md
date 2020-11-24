@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Manuela
+### Hi there 👋 I'm Manuela. Software Developer based in London
 
 <!--
 **ManuelaRE/ManuelaRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-Connect with me
+<p align='left'>
+    Connect with me:
+</p>
 <a href="https://www.linkedin.com/in/elena-manuela-redinciuc-828a4625/">
   <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>&nbsp;&nbsp;
