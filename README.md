@@ -2,13 +2,10 @@
 
 <h3 align='center'>
     Connect with me:
-</h3>
-
-<p align='center'>
     <a href="https://www.linkedin.com/in/elena-manuela-redinciuc-828a4625/">
       <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-</p>
+</h3>
 
 <h3 align='center'>
     Technology Stack:
@@ -26,7 +23,7 @@
  </p>
 
 <p align='center' >
-    [![Manuela's github stats](https://github-readme-stats.vercel.app/api?username=ManuelaRE&show_icons=true&theme=dracula)]
+    [![Manuela's github stats](https://github-readme-stats.vercel.app/api?username=ManuelaRE&show_icons=true&theme=dark)]
 </p>
 <!--
 **ManuelaRE/ManuelaRE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
