@@ -8,6 +8,7 @@
        <img align="left" alt="medium" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
 </p>
+<br></br>
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ManuelaRE&show_icons=true&count_private=true&theme=dracula" width="350"></a>
 </p>
